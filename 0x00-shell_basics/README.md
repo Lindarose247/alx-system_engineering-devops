@@ -1,1 +1,1 @@
-Delete the directory my_first_directory that is in the /tmp directory.
+A script to change working directory to previous one
