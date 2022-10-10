@@ -1,3 +1,1 @@
-Readme for Redirections
-This is a script that prints hello world 
-Confused smiley
+a script display the content of the /etc/passwd file
