@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#A script to configure ssh client to use key authentication and other settings
+
+Host *
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
+
